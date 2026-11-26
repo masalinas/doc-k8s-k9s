@@ -6,8 +6,8 @@ DoC k9s kubernetes TUI management
 - **STEP01**: Install k9s in Linux
 
 ```shell
-$ curl -sL https://github.com/derailed/k9s/releases/latest/download/k9s_Linux_amd64.tar.gz | tar -xz k9s
-$ sudo mv k9s /usr/local/bin/
+$ curl -sL https://github.com/derailed/popeye/releases/latest/download/popeye_linux_amd64.tar.gz | tar -xz popeye
+$ sudo mv popeye /usr/local/bin/
 ```
 
 - **STEP02**: Execute k9s
