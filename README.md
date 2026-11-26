@@ -10,6 +10,7 @@ sudo mv k9s /usr/local/bin/
 ```
 
 - **STEP02**: Execute k9s
+k9s will use the current context configured in your default .kube/config to connect to a kubernetes cluster
 ```shell
 k9s
 ```
