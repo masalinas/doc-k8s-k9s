@@ -14,6 +14,6 @@ sudo mv k9s /usr/local/bin/
 k9s
 ```
 
-!(k9s TUI)[images/tui.png]
+![k9s TUI](images/tui.png)
 
 
